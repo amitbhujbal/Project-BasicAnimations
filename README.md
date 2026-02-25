@@ -20,7 +20,7 @@ A simple UIKit demo project showing common animation techniques using UIView and
 
 ## Demo
 
-![Animation Demo](demo.gif)
+![Demo.](https://amitbhujbal.com/images/basic-animations.gif "Demo")
 
 ## What I Learned
 
