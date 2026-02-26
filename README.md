@@ -15,10 +15,12 @@ A simple UIKit demo project showing common animation techniques using UIView and
 - Drop Animation
 - Reset State
 
-## Requirements
-
-- iOS 15+
-- Xcode 15+
+## Technical Details
+- Built with Swift
+- Uses UIKit and Core Animation (QuartzCore)
+- Animations powered by CGAffineTransform and CABasicAnimation
+- Supports iOS 15+
+- Developed using Xcode 15+
 
 ## Author
 
